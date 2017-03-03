@@ -1,6 +1,6 @@
 #!/bin/bash
-basedir=/home/wwwroot/img.test.com/
-hostname=img.test.com
+basedir=/www/www/static/
+hostname=static
 thumbnaildir=thumbnail
 excludedir=^${basedir}${thumbnaildir}
 
