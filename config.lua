@@ -18,7 +18,7 @@ module(...,package.seeall)
 
 enabled_log 		 = true
 lua_log_level        = ngx.NOTICE
-gm_path				 = '/usr/local/graphicsmagick-1.3.18/bin/gm'
+gm_path				 = '/usr/bin/gm'
 img_background_color = 'white'
 enabled_default_img  = true
 default_img_uri 	 = '/default/notfound.jpg'
