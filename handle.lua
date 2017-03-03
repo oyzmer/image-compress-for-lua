@@ -1,4 +1,4 @@
--- nginx thumbnail module 
+-- nginx compress module 
 -- last update : 2015/11/21
 -- version     : 0.1
  
