@@ -5,7 +5,7 @@
 local c  = require 'config'
  
 --[[
-	uri               :链接地址，如/goods/0007/541/001_328x328.jpg
+	uri               :链接地址，如/photos/001_300x300.jpg
 	ngx_img_root      :图片根目录
 	ngx_thumbnail_root:缩略图根目录
 	img_width         :缩略图宽度 
